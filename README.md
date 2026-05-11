@@ -35,7 +35,7 @@ A research-grade RAG system for academic paper understanding. Implements hybrid 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-ff9d00?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-➡️ [View Repository](https://github.com/YOUR-USERNAME/scholarlens)
+➡️ [View Repository](https://github.com/YOUR-USERNAME/scholar-lens)
 
 ---
 
