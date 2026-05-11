@@ -54,5 +54,5 @@ A research-grade RAG system for academic paper understanding. Implements hybrid 
 
 ## Connect
 
-[![https://www.linkedin.com/in/parikshit-bhardwaj-a528a63a2/](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
-[![bhardwaj.parikshit@outlook.com](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![https://www.linkedin.com/in/parikshit-bhardwaj-a528a63a2/](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parikshit-bhardwaj-ml/)
+[![bhardwaj.parikshit@outlook.com](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](bhardwaj.parikshit@outlook.com)
